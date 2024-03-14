@@ -3,5 +3,5 @@
 import React from 'react';
 
 export const LazyImportComponentSSR = () => {
-  return <div>Lazy loaded client component</div>;
+  return <div>Lazy loaded component SSR:true</div>;
 };
